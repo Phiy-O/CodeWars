@@ -1,1 +1,4 @@
-console.log("test")
+function helloWorld() {
+  let str = "Hello World!";
+  console.log(str);
+}
